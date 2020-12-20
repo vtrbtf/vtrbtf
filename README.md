@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey 👋
+
+![](https://media.giphy.com/media/w89ak63KNl0nJl80ig/giphy.gif)
+
+### Bye 👋
+
+- :closed_book:	[Resume](https://github.com/vtrbtf/resume/blob/master/RESUME.md)  
+- :blue_book:	[Linkedin](https://br.linkedin.com/in/vtrbtf/en)
 
 <!--
 **vtrbtf/vtrbtf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
